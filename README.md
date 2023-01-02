@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deb Prakash Chatterjee</h1>
 <h3 align="center">A software Engineer & Quantum Computing Teacher from India</h3>
-<img align="right" alt = "profile" width = "200" src = "https://pbs.twimg.com/profile_images/1607240466894028800/ULmrbe91_400x400.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvamchatterjee28&label=Profile%20views&color=0e75b6&style=flat" alt="shuvamchatterjee28" /> </p>
 
